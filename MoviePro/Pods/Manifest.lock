@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.6.0)
+  - DropDown (2.3.1)
+  - Dropdowns (2.0.0)
+  - libwebp (0.6.0):
+    - libwebp/core (= 0.6.0)
+    - libwebp/dec (= 0.6.0)
+    - libwebp/demux (= 0.6.0)
+    - libwebp/dsp (= 0.6.0)
+    - libwebp/enc (= 0.6.0)
+    - libwebp/mux (= 0.6.0)
+    - libwebp/utils (= 0.6.0)
+    - libwebp/webp (= 0.6.0)
+  - libwebp/core (0.6.0):
+    - libwebp/webp
+  - libwebp/dec (0.6.0):
+    - libwebp/core
+  - libwebp/demux (0.6.0):
+    - libwebp/core
+  - libwebp/dsp (0.6.0):
+    - libwebp/core
+  - libwebp/enc (0.6.0):
+    - libwebp/core
+  - libwebp/mux (0.6.0):
+    - libwebp/core
+  - libwebp/utils (0.6.0):
+    - libwebp/core
+  - libwebp/webp (0.6.0)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - SDWebImage/Core (4.3.0)
+  - SDWebImage/WebP (4.3.0):
+    - libwebp (~> 0.5)
+    - SDWebImage/Core
+  - SwiftyJSON (4.0.0)
+  - WCLShineButton (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - DropDown
+  - Dropdowns
+  - NVActivityIndicatorView
+  - SDWebImage/WebP
+  - SwiftyJSON
+  - WCLShineButton
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  DropDown: 20499c7b2731b0d21609af924e47c7677a2be50d
+  Dropdowns: 9dd32d9ac9cc59e56ae093b588d35477abde32d2
+  libwebp: 1d5a07c2eb97f9c31bd5f154bb82efc0ea67c6a2
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  WCLShineButton: d8b979b6f6f9f6709f9e241e6e1a4712a1a9b36b
+
+PODFILE CHECKSUM: 5c14821d78dedd263f0f24a82fd293e943ce7ef4
+
+COCOAPODS: 1.4.0
